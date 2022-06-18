@@ -34,3 +34,37 @@ git staus
 git status
 git log
 clear
+ll
+ls -al
+git staus
+git status
+git log
+git inti
+clear
+git init
+git remote add origin https://github.com/2021sandeep/Devops.git
+git status
+git add.
+git add .
+git config --global user.name"2021sandeep"
+git config --global user.email"sandeep.j@thundersoft.com"
+git commit -m"coomit1"
+git push -u origin master
+git staus
+git status
+vim demo
+git init
+ls
+git remote add origin https://github.com/2021sandeep/devopss.git
+git staus
+git log
+git stats
+git status
+git add .
+git commit -m"third commit" .
+git log
+git status
+git remote add origin https://github.com/2021sandeep/devopss.git
+git branch
+git status
+git push -u origin master
